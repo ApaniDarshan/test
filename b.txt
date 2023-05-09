@@ -25,3 +25,15 @@ Address Bar:-
 Title Bar:-
 
 The title bar at the top of a window displays an application-defined icon and line of text. The text specifies the name of the application and indicates the purpose of the window. The title bar also makes it possible for the user to move the window using a mouse or other pointing device.
+
+Extension:-
+
+	An extension, in computer operating systems, is a piece of software that enhances or “extends” the capabilities of a programming language or other applications. An extension adds extra features to an already working standalone application. Usually an extension itself is not independently functional and needs other software with which to work.
+
+URL/URL
+
+	A URL (Uniform Resource Locator) is a unique identifier used to locate a resource on the Internet. It is also referred to as a web address. URLs consist of multiple parts -- including a protocol and domain name -- that tell a web browser how and where to retrieve a resource.
+
+File Type:-
+
+	A file type describes the structure or format of a file and is typically reflected in the file name extension
