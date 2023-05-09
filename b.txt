@@ -1,0 +1,27 @@
+Web Site:-
+
+	 A collection of web pages and related content that is identified by a common domain name and published on at least one web server. 
+
+WWW:-
+
+	WWW can be defined as the collection of different websites around the world, containing different information shared via local servers(or computers).
+
+Client Server Architecture:-
+
+	The client-server architecture refers to a system that hosts, delivers, and manages most of the resources and services that the client requests. In this model, all requests and services are delivered over a network, and it is also referred to as the networking computing model or client server network.
+
+Domain:-
+
+	A domain is a network of computers and devices that are controlled by one set authority and have specific guidelines. More specifically, a domain is controlled by one particular company that has its own internet presence and IP address. The domain is labeled by its domain name, such as webdesign or webdesign.com.
+
+Hosting:-
+
+	Hosting, in its most generic sense, is a service through which storage and computing resources are providing to an individual or organization for the accommodation and maintenance of one or more websites and related services.
+
+Address Bar:-
+
+	The address bar is the familiar text field at the top of a web browser's graphical user interface (GUI) that displays the name or the URL (uniform resource locator) of the current web page. Users request websites and pages by typing either the name or the URL into the address bar.
+
+Title Bar:-
+
+The title bar at the top of a window displays an application-defined icon and line of text. The text specifies the name of the application and indicates the purpose of the window. The title bar also makes it possible for the user to move the window using a mouse or other pointing device.
